@@ -1,0 +1,47 @@
+Created by fatih.ozdemir on 31/01/2025
+
+This is a concept file with following syntax for each concept.
+# Catchylabs sayfasina git
+* "https://catchylabs-webclient.testinium.com/" adresine git
+* url'i "https://catchylabs-webclient.testinium.com/" ile kontrol et
+* Username alaninin gorunur oldugunu kontrol et
+* Password alaninin gorunur oldugunu kontrol et
+
+# <username> kullanici adini username alanina yaz
+* <username> textini username alanina yaz
+
+# <password> sifresini password alanina yaz
+* <password> textini password alanina yaz
+
+# Basarili giris yapildigini kontrol et
+* Open Money Transfer butonunun gorunur oldugunu kontrol et
+
+# Hatali giris uyari mesaji goruntulenir
+* "Username or Password Invalid!" uyari mesajini kontrol et
+
+# Catchylabs uygulamasina login ol
+* "https://catchylabs-webclient.testinium.com/" adresine git
+* url'i "https://catchylabs-webclient.testinium.com/" ile kontrol et
+* "fatih.ozdemir" textini username alanina yaz
+* "ozdemir1907." textini password alanina yaz
+* Login butonuna tikla
+
+# Open Money Transfer butonuna tikla ve kontrol et
+* Open Money Transfer butonunun gorunur oldugunu kontrol et
+* Open Money Transfer butonuna tikla
+
+
+# Geri git butonuna tikla
+* Back butonuna tikla
+* Open Money Transfer butonunun gorunur oldugunu kontrol et
+
+# logout butonuna tikla
+* Logout butonuna tikla
+* Username alaninin gorunur oldugunu kontrol et
+* Password alaninin gorunur oldugunu kontrol et
+* "3" saniye bekle
+
+
+
+
+
