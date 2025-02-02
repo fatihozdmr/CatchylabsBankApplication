@@ -7,7 +7,7 @@ settings. The project provides a comprehensive testing strategy to enhance user 
 
 ---
 
-## 🔧 **Proje Özellikleri**
+## 🔧 **Project Features**
 - **Functions:**
   - **🔑 User login –** Users can log in with valid credentials.
   - **⚙️ Account settings management –** Users can edit their account information.
