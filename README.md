@@ -22,7 +22,7 @@ settings. The project provides a comprehensive testing strategy to enhance user 
   - **✅ JUnit –** For test management and organization.
   - **📄 Log4j –** For logging.
   - **🏗️ Maven –** For dependency management and test execution.
-  - **🏛️ Tasarım Deseni –** Page Object Model (POM) is used.
+  - **🏛️ Design Pattern –** Page Object Model (POM) is used.
 
 ---
 ## 🚀 **Installation Instructions**
