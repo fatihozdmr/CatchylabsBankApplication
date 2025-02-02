@@ -1,0 +1,67 @@
+# Hesap bilgilerinin dogrulugunu kontrol et
+* Account name alaninin gorunur oldugunu kontrol et
+* Account type alaninin gorunur oldugunu kontrol et
+* Creation time alanininin gorunur oldugunu kontrol
+* Amount alaninin gorunur oldugunu kontrol et
+* Transactions alaninin gorunur oldugunu kontrol et
+
+# Edit Account butonuna tikla ve bilgilerin dogru listelendigi kontrol et
+* Edit account butonuna tikla
+* Edit account menusunun acildigini kontrol et
+* Account name textinin gorunur oldugunu kontrol et
+
+
+# Account name alanina <name> textini gir ve girilen texti kaydet
+* Account name alanina <name> textini gir ve ismi kaydet
+
+# Update butonuna tikla ve My account sayfasinin goruntulendigi kontrol et
+* Update butonuna tikla
+* My account alaninin gorunur oldugunu kontrol et
+* "3" saniye bekle
+
+
+# Duzenlenen account name kontrol et
+* My account alanindaki Account name degerini kontrol et
+
+
+# Transfer Money butonuna tikla ve bilgilerin dogru sekilde goruntulendigini kontrol et
+* Transfer Money butonuna tikla
+* Transfer money menusunun acildigini kontrol et
+* Sender account textinin gorunur oldugunu kontrol et
+* Receiver account textinin gorunur oldugunu kontrol et
+
+# Amount alanina <amount> gir ve girilen tutari kaydet
+* Amount alanina <amount> gir ve tutari kaydet
+
+# Send butonuna tikla ve My accout sayfasinin goruntulendigi kontrol et
+* Send butonuna tikla
+* My account alaninin gorunur oldugunu kontrol et
+* "5" saniye bekle
+
+# Transactions listesinden gonderilen transfer tutarini kontrol et
+* Transactions alanindaki Amount degerini transfer money icin kontrol et
+
+
+# Add Money butonuna tikla ve bilgilerin dogru sekilde listelendigi kontrol et
+* Add Money butonuna tikla
+* Add Money menusunun acildigini kontrol et
+* Card number alaninin gorunur oldugunu kontrol et
+* Card holder alaninin gorunur oldugunu kontrol et
+* Expiry date alaninin gorunur oldugunu kontrol et
+* CVV alaninin gorunur oldugunu kontrol et
+* Amount alaninin gorunur oldugunu kontrol et
+
+# Kredi karti bilgilerini gir
+* Kart numarasi alanina "1234123412341234" gir
+* Card holder alanina "Fatih Ozdemir" gir
+* Expiry Date alanina "1026" gir
+* CVV alanina "110" gir
+* Amount alanina "500" gir ve kaydet
+
+# Add butonuna tikla ve My accout sayfasinin goruntulendigi kontrol et
+* Add butonuna tikla
+* My account alaninin gorunur oldugunu kontrol et
+* "3" saniye bekle
+
+# Transactions listesinden hesaba eklenen tutari kontrol et
+* Transactions listesinde Amount alanini kontrol et
